@@ -1,3 +1,3 @@
 # azure-mysql-exp
 
-やっとむ実験用
+spring boot webとspring data jpaをAzure App Serviceにデプロイする実験、調査用のアプリ
